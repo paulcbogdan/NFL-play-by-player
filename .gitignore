@@ -2,3 +2,11 @@
 *.xlsx
 *.csv
 !results_save/*.pkl
+*.zip
+*.docx
+game_backup_pre_heirarchy.py
+game.py
+game_interaction_penalty.py
+scraper.py
+scratch_sheet.py
+scratch_confidence_interval.py
