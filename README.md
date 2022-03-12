@@ -1,7 +1,7 @@
-If you are actually interested in using any of this code, please shoot me a message on Reddit! It's not really organized or meant for others to use in the current state.
-
 # NFL-play-by-player
 This code simulates NFL games in a play-by-play fashion. Heavily uses the Pandas and Statsmodels packages. The termcolor and tqdm packages are also used for aesthetics. See my reddit post: https://www.reddit.com/r/nfl/comments/ew9dog/simulating_the_2018_and_2019_nfl_seasons_one_play/. 
+
+If you are actually interested in using any of this code, please shoot me a message on Reddit! It's not really organized or meant for others to use in the current state.
 
 organize_data.py takes the original .xlsx spreadsheet detailing play-by-play information and converts it into a Pandas dataframe and does some very minimal pre-processing. Honestly, it may not be necessary. The original play-by-play data can be found here: https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016 For the 2019 season you will need to use this package used to create the Kaggle datset: https://github.com/maksimhorowitz/nflscrapR 
 
